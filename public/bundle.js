@@ -22126,6 +22126,11 @@
 	          null,
 	          'The 90th Percentile: ',
 	          the90Percentile
+	        ),
+	        _react2.default.createElement(
+	          'p',
+	          null,
+	          'The 90th Percentile represents the amount of days needed to complete given stories with 90% certainty '
 	        )
 	      ));
 	    }
